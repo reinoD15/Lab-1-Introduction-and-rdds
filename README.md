@@ -1,4 +1,4 @@
-# Lab-1-Introduction-and-rdds
+# Lab repository
 
 Nicolas Donier - reinod15
 
